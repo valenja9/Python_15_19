@@ -7,7 +7,7 @@
 # Python I(18hodin):
 * Startuje(1.2.- 10.3)
 * Behem prvniho kurzu se naucime pevne zaklady.
-1) Ukladani, int, float, input, dir,type * [colab_z_prvni_lekce]()
+1) Ukladani, str, int, float, input,len() * [colab_z_prvni_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_I.ipynb)
 2) List a opakovani  * [colab_z_druhe_lekce]()
 3) Podminky, tuple   * [colab_z_treti_lekce]()
 4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce]()
