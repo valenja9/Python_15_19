@@ -7,21 +7,18 @@
 # Python I(18hodin):
 * Startuje(1.2.- 10.3)
 * Behem prvniho kurzu se naucime pevne zaklady.
-1) Ukladani, str, int, float, input,len() * [colab_z_prvni_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_I.ipynb)
-2) List a opakovani  * [colab_z_druhe_lekce]()
-3) Podminky, tuple   * [colab_z_treti_lekce]()
-4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce]()
-5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce]()
-6) Enumerate a cykly, opakovani * [colab_z_seste_lekce]()
-7) Funkce * [colab_z_sedme_lekce]()
-8) Funkce * [colab_z_osme_lekce]()
-9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-                                    * [Instalace Python](https://www.python.org/downloads/)
-                                    * [git registrace](https://github.com/)
-                                    * [colab_z_devate_lekce]()
-10) Sys modul a os    *[colab_z_desate_lekce]()
-11) Zaverecny projekt * [colab_z_jedenacte_lekce]()
-12) Zaverecny projekt * [colab_z_dvanacte_lekce]()
+1) Ukladani, str, int, float, input, len * [colab_z_prvni_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_I.ipynb)
+2) Podminky, bool, metody stringu  * [colab_z_druhe_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_II.ipynb)
+3) indexovani a Pycharm a git a prikazova radka * [colab_z_treti_lekce]()
+4) List, tuple * [colab_z_ctvrte_lekce]()
+5) While cyklus a slovnik * [colab_z_pate_lekce]()
+6) for cyklus a Enumerate * [colab_z_seste_lekce]()
+7) FunkceI * [colab_pro_funkce]()
+8) FunkceII *
+9) FunkceIII *
+10) Sys modul a os*[colab_z_desate_lekce]()
+11) Zaverecny projektI * [colab_z_jedenacte_lekce]()
+12) Zaverecny projektII * [colab_z_dvanacte_lekce]()
 
 
 # Python II(18hodin):
