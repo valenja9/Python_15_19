@@ -9,8 +9,8 @@
 * Behem prvniho kurzu se naucime pevne zaklady.
 1) Ukladani, str, int, float, input, len * [colab_z_prvni_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_I.ipynb)
 2) Podminky, bool, metody stringu  * [colab_z_druhe_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_15_19_II.ipynb)
-3) indexovani a Pycharm a git a prikazova radka * [colab_z_treti_lekce]()
-4) List, tuple * [colab_z_ctvrte_lekce]()
+3) indexovani, slicing, ukazka Pycharm a prikazova radka * [colab_z_treti_lekce](https://github.com/valenja9/Python_15_19/blob/main/Python_14_19_III.ipynb)
+4) List, tuple, metody* [colab_z_ctvrte_lekce]()
 5) While cyklus a slovnik * [colab_z_pate_lekce]()
 6) for cyklus a Enumerate * [colab_z_seste_lekce]()
 7) FunkceI * [colab_pro_funkce]()
